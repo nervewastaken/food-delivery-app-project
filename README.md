@@ -3,11 +3,12 @@ Hi there!
 This is a front end project created my me for the Extracurricular Course at VIT Vellore
 
 Basics
+```Bash
 Its a food ordering app 
 you can view the menu
 a basic form is introduced which sends the data to the admin page
 admin page is secured with login/password
-
+```
 
 
 

@@ -1,4 +1,5 @@
 'use client';
+import Link from 'next/link';
 import React from 'react';
 
 
@@ -13,7 +14,7 @@ export default function MenuItem1(){
                         <p className="text-gray-500 text-sm py-3">
                             lorem ipsum
                         </p>
-                        <button  className="bg-primary text-white rounded-full px-6 py-2">Add to cart ₹700</button>
+                        <Link href={'/contact'} className="bg-primary text-white rounded-full px-6 py-2">Order Now!</Link>
                     </div>
 
         </div>

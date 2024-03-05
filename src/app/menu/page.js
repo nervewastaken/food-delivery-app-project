@@ -1,6 +1,6 @@
 
 import Image from "next/image";
-import MenuItem from "../components/menu-items/menuitem";
+import MenuItem from "../components/menu-items/mixedfruit";
 import SectionHeader from "../components/layout/SectionHeader";
 import Header from "../components/layout/header";
 import Shopcart from "../components/layout/cartify";
